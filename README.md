@@ -33,7 +33,7 @@ CRUD (Create, Read, Update, Delete) é um acrônimo para as maneiras de se opera
 </p>
 
 ### Links
-- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/match-schedule-cup/)
+- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/CRUD-JavaScript/)
 
 </br>
 
@@ -58,7 +58,7 @@ Pretendo adicionar um elemento search-box para fazer a pesquisa e filtragem das 
 </br>
 
 ## Autor
-João Alison TI 👨🏽‍💻
+*João Alison TI 👨🏽‍💻*
 
 ---
 
